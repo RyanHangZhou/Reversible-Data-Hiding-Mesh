@@ -1,0 +1,11 @@
+* This is an example code for the algorithm described in
+
+Ruiqi Jiang, Hang Zhou, Weiming Zhang, and Nenghai Yu.
+"Reversible Data Hiding in Encrypted 3D Mesh Models", TMM 2017.
+
+* To run the example code: 
+1. Download "toolbox_graph", a public toolbox for 3D mesh processing;
+2. Put source 3D meshes in the "data/source" directory;
+3. Start from main.m.
+
+For any problems with the code, please contact me @ zh2991@mail.ustc.edu.cn
