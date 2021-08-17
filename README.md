@@ -7,6 +7,16 @@ This work is published on Transactions on Multimedia (TMM), 2018.
 
 We propose a RDH technique in encrypted 3D meshes. The proposed method maps decimals of the vertex coordinates into integers first, so that the bit-stream encryption technique can be executed. With a data-hiding key, several LSBs are operated to embed data. By using the encryption key, a receiver can roughly reconstruct the content of the mesh. According to the data-hiding key, with the aid of spatial correlation in natural mesh models, the embedded data can be successfully extracted and the original mesh can be perfectly recovered.
 
+
+Usage
+--
+
+
+    Download "toolbox_graph", a public toolbox for 3D mesh processing;
+    Put source 3D meshes in the "data/source" directory;
+    Start from main.m.
+
+
 Citation
 --
 If you find our work useful in your research, please consider citing:
@@ -21,16 +31,7 @@ If you find our work useful in your research, please consider citing:
       year={2018},
       publisher={IEEE}
     }
-
-
-
-Usage
---
-
-
-    Download "toolbox_graph", a public toolbox for 3D mesh processing;
-    Put source 3D meshes in the "data/source" directory;
-    Start from main.m.
-
+    
+    
 License
 --
